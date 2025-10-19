@@ -4,7 +4,7 @@
     "Numéro": 1,
     "Rareté": "Inhabituelle",
     "Encre": "Ambre",
-    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/1.jpg?raw=true"
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/1.jpg"
   },
   {
     "Nom de la carte": "Ariel - Chanteuse spectaculaire",
@@ -1427,4 +1427,5 @@
     "Encre": "Acier",
     "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/204.jpg?raw=true"
   }
+
 ]
