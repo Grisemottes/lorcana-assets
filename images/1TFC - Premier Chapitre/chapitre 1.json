@@ -1,0 +1,1430 @@
+[
+  {
+    "Nom de la carte": "Ariel - Sur des jambes humaines",
+    "Numéro": 1,
+    "Rareté": "Inhabituelle",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/1.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Ariel - Chanteuse spectaculaire",
+    "Numéro": 2,
+    "Rareté": "Super Rare",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/2.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Cendrillon - Douce et gentille",
+    "Numéro": 3,
+    "Rareté": "Inhabituelle",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/3.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Dingo - Mousquetaire",
+    "Numéro": 4,
+    "Rareté": "Inhabituelle",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/4.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Hadès - Roi de l'Olympe",
+    "Numéro": 5,
+    "Rareté": "Rare",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/5.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Hadès - Seigneur des Enfers",
+    "Numéro": 6,
+    "Rareté": "Rare",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/6.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Heihei - Goûter marin",
+    "Numéro": 7,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/7.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "LeFou - Maladroit",
+    "Numéro": 8,
+    "Rareté": "Inhabituelle",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/8.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Lilo - Faisant un vœu",
+    "Numéro": 9,
+    "Rareté": "Rare",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/9.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Maximus - Cheval de palais",
+    "Numéro": 10,
+    "Rareté": "Super Rare",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/10.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Maximus - Poursuivant acharné",
+    "Numéro": 11,
+    "Rareté": "Inhabituelle",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/11.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mickey Mouse - Ami véritable",
+    "Numéro": 12,
+    "Rareté": "Inhabituelle",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/12.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Minnie Mouse - Princesse adorée",
+    "Numéro": 13,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/13.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Vaiana - De Motunui",
+    "Numéro": 14,
+    "Rareté": "Rare",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/14.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Monsieur Mouche - Second loyal",
+    "Numéro": 15,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/15.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Prince Philippe - Tueur de dragon",
+    "Numéro": 16,
+    "Rareté": "Inhabituelle",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/16.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Pumbaa - Phacochère amical",
+    "Numéro": 17,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/17.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Raiponce - Douée de guérison",
+    "Numéro": 18,
+    "Rareté": "Légendaire",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/18.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Sébastien - Compositeur de cour",
+    "Numéro": 19,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/19.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Simba - Ourson protecteur",
+    "Numéro": 20,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/20.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Stitch - Surfeur insouciant",
+    "Numéro": 21,
+    "Rareté": "Légendaire",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/21.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Stitch - Nouveau chien",
+    "Numéro": 22,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/22.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Stitch - Rock star",
+    "Numéro": 23,
+    "Rareté": "Super Rare",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/23.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Timon - Voleur de grub",
+    "Numéro": 24,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/24.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Soyez notre invité",
+    "Numéro": 25,
+    "Rareté": "Inhabituelle",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/25.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Contrôlez votre colère !",
+    "Numéro": 26,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/26.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Dinglehopper",
+    "Numéro": 27,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/27.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Lueur réparatrice",
+    "Numéro": 28,
+    "Rareté": "Inhabituelle",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/28.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Hakuna Matata",
+    "Numéro": 29,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/29.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Partie de pêche",
+    "Numéro": 30,
+    "Rareté": "Rare",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/30.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Petite sirène",
+    "Numéro": 31,
+    "Rareté": "Inhabituelle",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/31.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Brosse à cheveux",
+    "Numéro": 32,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/32.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Tasse de Thé",
+    "Numéro": 33,
+    "Rareté": "Commune",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/33.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Un rêve merveilleux",
+    "Numéro": 34,
+    "Rareté": "Rare",
+    "Encre": "Ambre",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/34.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Anna - Héritière d'Arendelle",
+    "Numéro": 35,
+    "Rareté": "Inhabituelle",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/35.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Archimède - Hibou très éduqué",
+    "Numéro": 36,
+    "Rareté": "Commune",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/36.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Docteur Facilier - Agent provocateur",
+    "Numéro": 37,
+    "Rareté": "Rare",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/37.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Docteur Facilier - Charlatan",
+    "Numéro": 38,
+    "Rareté": "Commune",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/38.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Docteur Facilier - Gentleman remarquable",
+    "Numéro": 39,
+    "Rareté": "Rare",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/39.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Elsa - Reine régente",
+    "Numéro": 40,
+    "Rareté": "Commune",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/40.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Elsa - Reine des Neiges",
+    "Numéro": 41,
+    "Rareté": "Inhabituelle",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/41.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Elsa - Esprit de l'hiver",
+    "Numéro": 42,
+    "Rareté": "Légendaire",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/42.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Flotsam - Espion d'Ursula",
+    "Numéro": 43,
+    "Rareté": "Rare",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/43.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Jafar - Gardien des secrets",
+    "Numéro": 44,
+    "Rareté": "Rare",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/44.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Jafar - Sorcier maléfique",
+    "Numéro": 45,
+    "Rareté": "Commune",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/45.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Jetsam - Espion d'Ursula",
+    "Numéro": 46,
+    "Rareté": "Rare",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/46.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "La Méchante Reine - Grimpeuse des murailles",
+    "Numéro": 47,
+    "Rareté": "Commune",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/47.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mickey Mouse - Sorcier égaré",
+    "Numéro": 48,
+    "Rareté": "Super Rare",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/48.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mickey Mouse - Apprenti sorcier",
+    "Numéro": 49,
+    "Rareté": "Inhabituelle",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/49.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mickey Mouse - Magicien",
+    "Numéro": 50,
+    "Rareté": "Inhabituelle",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/50.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Madame de Garderobe - Confidente de Belle",
+    "Numéro": 51,
+    "Rareté": "Super Rare",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/51.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Olaf - Bonhomme de neige amical",
+    "Numéro": 52,
+    "Rareté": "Inhabituelle",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/52.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Pascal - Compagnon de Raiponce",
+    "Numéro": 53,
+    "Rareté": "Inhabituelle",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/53.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Rafiki - Sorcier mystérieux",
+    "Numéro": 54,
+    "Rareté": "Inhabituelle",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/54.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Simba - Ourson protecteur",
+    "Numéro": 55,
+    "Rareté": "Commune",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/55.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "La Fée Clochette - Compagne de Peter Pan",
+    "Numéro": 56,
+    "Rareté": "Commune",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/56.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "La Fée Clochette - Compagne de Peter Pan",
+    "Numéro": 57,
+    "Rareté": "Commune",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/57.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "La Fée Clochette - Fée géante",
+    "Numéro": 58,
+    "Rareté": "Légendaire",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/58.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Ursula - Avide de pouvoir",
+    "Numéro": 59,
+    "Rareté": "Légendaire",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/59.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Yzma - Alchimiste",
+    "Numéro": 60,
+    "Rareté": "Commune",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/60.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Zeus - Dieu de la foudre",
+    "Numéro": 61,
+    "Rareté": "Rare",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/61.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Dérouter",
+    "Numéro": 62,
+    "Rareté": "Inhabituelle",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/62.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Geler",
+    "Numéro": 63,
+    "Rareté": "Commune",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/63.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Amis de l'au-delà",
+    "Numéro": 64,
+    "Rareté": "Commune",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/64.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Réflexion",
+    "Numéro": 65,
+    "Rareté": "Inhabituelle",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/65.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Miroir Magique",
+    "Numéro": 66,
+    "Rareté": "Rare",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/66.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Chaudron d'Ursula",
+    "Numéro": 67,
+    "Rareté": "Inhabituelle",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/67.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Montre à gousset du Lapin Blanc",
+    "Numéro": 68,
+    "Rareté": "Rare",
+    "Encre": "Améthyste",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/68.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Aladdin - Prince Ali",
+    "Numéro": 69,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/69.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Bête - Fleuron d'aconit",
+    "Numéro": 70,
+    "Rareté": "Légendaire",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/70.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Chat du Cheshire - Moitié là",
+    "Numéro": 71,
+    "Rareté": "Inhabituelle",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/71.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Cruella d'Enfer - Chasseuse d'Os",
+    "Numéro": 72,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/72.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Le Duc de Weselton - Dignitaire opportuniste",
+    "Numéro": 73,
+    "Rareté": "Rare",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/73.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Flynn Rider - Charmant vaurien",
+    "Numéro": 74,
+    "Rareté": "Légendaire",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/74.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Gaston - Beau, mais bête",
+    "Numéro": 75,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/75.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Gaston - Arrogant et trompeur",
+    "Numéro": 76,
+    "Rareté": "Rare",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/76.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Gaston - Chasseur rusé",
+    "Numéro": 77,
+    "Rareté": "Inhabituelle",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/77.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Hans - Prince intrigant",
+    "Numéro": 78,
+    "Rareté": "Rare",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/78.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Horace - Crapule bonne à rien",
+    "Numéro": 79,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/79.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Iago - Perroquet vantard",
+    "Numéro": 80,
+    "Rareté": "Rare",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/80.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Jasper - Escroc commun",
+    "Numéro": 81,
+    "Rareté": "Inhabituelle",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/81.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "John Silver - Pirate Alien",
+    "Numéro": 82,
+    "Rareté": "Légendaire",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/82.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Jumba Jookiba - Scientifique renégat",
+    "Numéro": 83,
+    "Rareté": "Inhabituelle",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/83.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Kuzco - Empereur capricieux",
+    "Numéro": 84,
+    "Rareté": "Rare",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/84.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Maléfique - Sinistre visiteuse",
+    "Numéro": 85,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/85.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mégara - Manipulatrice",
+    "Numéro": 86,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/86.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mégara - Tireuse de ficelles",
+    "Numéro": 87,
+    "Rareté": "Inhabituelle",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/87.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mère Gothel - Mère au foyer",
+    "Numéro": 88,
+    "Rareté": "Super Rare",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/88.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mulan - Soldat impérial",
+    "Numéro": 89,
+    "Rareté": "Inhabituelle",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/89.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Peter Pan - Protecteur de Neverland",
+    "Numéro": 90,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/90.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Peter Pan - Voleur volant",
+    "Numéro": 91,
+    "Rareté": "Rare",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/91.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Tamatoa - Bling-bling",
+    "Numéro": 92,
+    "Rareté": "Super Rare",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/92.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "La Fée Clochette - Compagne de Peter Pan",
+    "Numéro": 93,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/93.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Encore une fois !",
+    "Numéro": 94,
+    "Rareté": "Inhabituelle",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/94.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mère sait mieux",
+    "Numéro": 95,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/95.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Ruée",
+    "Numéro": 96,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/96.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Voler aux riches",
+    "Numéro": 97,
+    "Rareté": "Inhabituelle",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/97.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Frisson soudain",
+    "Numéro": 98,
+    "Rareté": "Rare",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/98.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "La Bête est à moi !",
+    "Numéro": 99,
+    "Rareté": "Inhabituelle",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/99.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Trahison vicieuse",
+    "Numéro": 100,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/100.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Cartes du Dr Facilier",
+    "Numéro": 101,
+    "Rareté": "Inhabituelle",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/101.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Cimeterre volé",
+    "Numéro": 102,
+    "Rareté": "Commune",
+    "Encre": "Émeraude",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/102.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Abu - Singe espiègle",
+    "Numéro": 103,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/103.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Aladdin - Hors-la-loi héroïque",
+    "Numéro": 104,
+    "Rareté": "Super Rare",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/104.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Aladdin - Rat des rues",
+    "Numéro": 105,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/105.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Alice - Fille curieuse",
+    "Numéro": 106,
+    "Rareté": "Rare",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/106.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Bambi - Faon",
+    "Numéro": 107,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/107.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Capitaine Crochet - Duelliste ambitieux",
+    "Numéro": 108,
+    "Rareté": "Inhabituelle",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/108.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Capitaine Crochet - Capitaine du Vengeur",
+    "Numéro": 109,
+    "Rareté": "Rare",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/109.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Chapeau fou - Le meilleur des hôtes",
+    "Numéro": 110,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/110.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Maléfique - Fée noire",
+    "Numéro": 111,
+    "Rareté": "Rare",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/111.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Maléfique - Dragon monstrueux",
+    "Numéro": 112,
+    "Rareté": "Légendaire",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/112.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mickey Mouse - Brave petit tailleur",
+    "Numéro": 113,
+    "Rareté": "Super Rare",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/113.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Moana - De Motunui",
+    "Numéro": 114,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/114.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Pongo - Chiot loyal",
+    "Numéro": 115,
+    "Rareté": "Inhabituelle",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/115.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Pongo - Chiot loyal",
+    "Numéro": 116,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/116.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Le Roi Lion - Roi déchu",
+    "Numéro": 117,
+    "Rareté": "Inhabituelle",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/117.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Le Roi Lion - Roi déchu",
+    "Numéro": 118,
+    "Rareté": "Rare",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/118.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Robin des Bois - Mendiant charmant",
+    "Numéro": 119,
+    "Rareté": "Rare",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/119.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Schtroumpf - Mineur",
+    "Numéro": 120,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/120.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Le Roi Lion - Prince exilé",
+    "Numéro": 121,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/121.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Le Roi Lion - Vrai roi",
+    "Numéro": 122,
+    "Rareté": "Légendaire",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/122.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Scar - Roi déchu",
+    "Numéro": 123,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/123.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Sergent Tibbs - Adjudant en chef",
+    "Numéro": 124,
+    "Rareté": "Inhabituelle",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/124.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Stitch - Poursuivant acharné",
+    "Numéro": 125,
+    "Rareté": "Inhabituelle",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/125.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Te Kā - Sans cœur",
+    "Numéro": 126,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/126.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Tigrou - Sautilleur",
+    "Numéro": 127,
+    "Rareté": "Super Rare",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/127.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Soyez prêtes !",
+    "Numéro": 128,
+    "Rareté": "Rare",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/128.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Couper court à la poursuite",
+    "Numéro": 129,
+    "Rareté": "Inhabituelle",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/129.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Feu de dragon",
+    "Numéro": 130,
+    "Rareté": "Rare",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/130.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Attiser les flammes",
+    "Numéro": 131,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/131.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Il a une épée !",
+    "Numéro": 132,
+    "Rareté": "Inhabituelle",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/132.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Emmêlé",
+    "Numéro": 133,
+    "Rareté": "Inhabituelle",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/133.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Pomme empoisonnée",
+    "Numéro": 134,
+    "Rareté": "Commune",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/134.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Bouclier de Vertu",
+    "Numéro": 135,
+    "Rareté": "Inhabituelle",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/135.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Épée de Vérité",
+    "Numéro": 136,
+    "Rareté": "Rare",
+    "Encre": "Rubis",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/136.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Ariel - Collectionneuse de babioles",
+    "Numéro": 137,
+    "Rareté": "Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/137.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Aurore - Églantine",
+    "Numéro": 138,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/138.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Aurore - Gardienne des rêves",
+    "Numéro": 139,
+    "Rareté": "Super Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/139.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Aurore - Princesse royale",
+    "Numéro": 140,
+    "Rareté": "Inhabituelle",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/140.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Belle - Ingénieure inventive",
+    "Numéro": 141,
+    "Rareté": "Inhabituelle",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/141.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Belle - Étrange demoiselle",
+    "Numéro": 142,
+    "Rareté": "Légendaire",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/142.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Cendrillon - Héroïne vaillante",
+    "Numéro": 143,
+    "Rareté": "Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/143.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Cendrillon - Amie des animaux",
+    "Numéro": 144,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/144.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Flotsam - Voix de la raison",
+    "Numéro": 145,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/145.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Jafar - Sorcier maléfique",
+    "Numéro": 146,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/146.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Jafar - Visir royal",
+    "Numéro": 147,
+    "Rareté": "Inhabituelle",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/147.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Jasmine - Déguisée",
+    "Numéro": 148,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/148.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Jasmine - Princesse d'Agrabah",
+    "Numéro": 149,
+    "Rareté": "Inhabituelle",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/149.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Maléfique - Sinistre visiteuse",
+    "Numéro": 150,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/150.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Maléfique - Fée noire",
+    "Numéro": 151,
+    "Rareté": "Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/151.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mickey Mouse - Ami véritable",
+    "Numéro": 152,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/152.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Vaiana - De Motunui",
+    "Numéro": 153,
+    "Rareté": "Super Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/153.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Philtre d'amour",
+    "Numéro": 154,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/154.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Roi Triton - Père et souverain",
+    "Numéro": 155,
+    "Rareté": "Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/155.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Robin des Bois - Mendiant charmant",
+    "Numéro": 156,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/156.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "La Belle au bois dormant - Princesse endormie",
+    "Numéro": 157,
+    "Rareté": "Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/157.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "La Fée Clochette - Mini tacticienne",
+    "Numéro": 158,
+    "Rareté": "Inhabituelle",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/158.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Tamatoa - Bling-bling",
+    "Numéro": 159,
+    "Rareté": "Légendaire",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/159.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "La Bête - Brute",
+    "Numéro": 160,
+    "Rareté": "Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/160.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Un Monde Nouveau",
+    "Numéro": 161,
+    "Rareté": "Super Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/161.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "C'est l'heure du bain",
+    "Numéro": 162,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/162.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Déguisement d'homme d'État",
+    "Numéro": 163,
+    "Rareté": "Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/163.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Essence de l'Illumineuse",
+    "Numéro": 164,
+    "Rareté": "Inhabituelle",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/164.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Méfiez-vous du Philtre d'amour",
+    "Numéro": 165,
+    "Rareté": "Inhabituelle",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/165.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Baguette magique",
+    "Numéro": 166,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/166.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Lunettes en forme d'arête",
+    "Numéro": 167,
+    "Rareté": "Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/167.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Plume en forme d'arête",
+    "Numéro": 168,
+    "Rareté": "Super Rare",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/168.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Miroir d'eau",
+    "Numéro": 169,
+    "Rareté": "Commune",
+    "Encre": "Saphir",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/169.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Aladdin - Épéiste acculé",
+    "Numéro": 170,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/170.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Aladdin - Hors-la-loi acculé",
+    "Numéro": 171,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/171.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Bête - Têtu",
+    "Numéro": 172,
+    "Rareté": "Inhabituelle",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/172.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Capitaine Crochet - Second loyal",
+    "Numéro": 173,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/173.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Capitaine Crochet - Duelliste ambitieux",
+    "Numéro": 174,
+    "Rareté": "Rare",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/174.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Capitaine Crochet - Capitaine d'abordage",
+    "Numéro": 175,
+    "Rareté": "Rare",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/175.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Chevalier d'Arendelle",
+    "Numéro": 176,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/176.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Chevalier d'Arendelle",
+    "Numéro": 177,
+    "Rareté": "Inhabituelle",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/177.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Cochon de compagnie",
+    "Numéro": 178,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/178.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Créatures - Sbires de Maléfique",
+    "Numéro": 179,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/179.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Gaston - Chasseur rusé",
+    "Numéro": 180,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/180.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Hercule - Vrai héros",
+    "Numéro": 181,
+    "Rareté": "Rare",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/181.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Kristoff - Maître glacier officiel",
+    "Numéro": 182,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/182.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Kronk - Bras droit fidèle",
+    "Numéro": 183,
+    "Rareté": "Rare",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/183.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Lilo - Héroïne galactique",
+    "Numéro": 184,
+    "Rareté": "Inhabituelle",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/184.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Maui - Demi-dieu",
+    "Numéro": 185,
+    "Rareté": "Rare",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/185.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Mickey Mouse - Mousquetaire",
+    "Numéro": 186,
+    "Rareté": "Rare",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/186.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Prince Eric - Fougueux et courageux",
+    "Numéro": 187,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/187.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Simba - Futur roi",
+    "Numéro": 188,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/188.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Simba - Roi de retour",
+    "Numéro": 189,
+    "Rareté": "Rare",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/189.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Simba - Héritier légitime",
+    "Numéro": 190,
+    "Rareté": "Inhabituelle",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/190.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Monsieur Starkey - Acolyte de Crochet",
+    "Numéro": 191,
+    "Rareté": "Inhabituelle",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/191.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Te Kā - Sans cœur",
+    "Numéro": 192,
+    "Rareté": "Légendaire",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/192.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "La Fée Clochette - Fée géante",
+    "Numéro": 193,
+    "Rareté": "Super Rare",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/193.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "La Fée Clochette - Mini tacticienne",
+    "Numéro": 194,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/194.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Un Nouveau Jour",
+    "Numéro": 195,
+    "Rareté": "Super Rare",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/195.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Déchiqueter",
+    "Numéro": 196,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/196.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Allumez les mèches !",
+    "Numéro": 197,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/197.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Coup puissant",
+    "Numéro": 198,
+    "Rareté": "Inhabituelle",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/198.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Sens dessus dessous",
+    "Numéro": 199,
+    "Rareté": "Inhabituelle",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/199.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Briser",
+    "Numéro": 200,
+    "Rareté": "Rare",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/200.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Miroir de la Bête",
+    "Numéro": 201,
+    "Rareté": "Commune",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/201.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Poêle à frire",
+    "Numéro": 202,
+    "Rareté": "Inhabituelle",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/202.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Filet à papillons de Tiana",
+    "Numéro": 203,
+    "Rareté": "Rare",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/203.jpg?raw=true"
+  },
+  {
+    "Nom de la carte": "Le Maître des illusions",
+    "Numéro": 204,
+    "Rareté": "Légendaire",
+    "Encre": "Acier",
+    "Lien_GitHub": "https://github.com/Grisemottes/lorcana-assets/blob/main/images/1TFC%20-%20Premier%20Chapitre/204.jpg?raw=true"
+  }
+]
